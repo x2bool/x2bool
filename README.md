@@ -2,7 +2,7 @@
 
 You can find me on LinkedIn: https://www.linkedin.com/in/sergey-khabibullin
 
-Follow me on Twitter: https://twitter.com/x2bool
+Follow me on Bluesky: [x2bool.bsky.social](https://bsky.app/profile/x2bool.bsky.social)
 
 Also visit my blog: https://khabibullin.com
 
